@@ -1,0 +1,5 @@
+framework module pcre [system] {
+    umbrella header "Sources/pcre-umbrella.h"
+    link "pcre"
+    export *
+}
